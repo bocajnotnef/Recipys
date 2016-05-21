@@ -9,6 +9,7 @@ Welcome to Recipys's documentation!
 Contents:
 
 .. toctree::
+   poultry/index
    :maxdepth: 2
 
 
