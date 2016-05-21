@@ -10,6 +10,7 @@ Contents:
 
 .. toctree::
    poultry/index
+   Beef/index
    :maxdepth: 2
 
 
