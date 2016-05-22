@@ -15,6 +15,11 @@ Contents:
    Seafood/index
    :maxdepth: 1
 
+Recipe Template
+---------------
+.. toctree::
+   template
+   :maxdepth: 1
    
 Indices and tables
 ==================
