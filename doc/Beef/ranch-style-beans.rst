@@ -23,6 +23,8 @@ Instructions
 #. Add browned meat to casserole dish and mix
 #. Bake 30min - 45min, until hot and bubbly
 
+Serves: 4 - 6
+
 Notes
 -----
 * Make sure to fully drain the liquid from the kidney beans or else the casserole gets soupy
