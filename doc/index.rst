@@ -12,6 +12,7 @@ Contents:
    poultry/index
    Beef/index
    Pasta/index
+   Seafood/index
    :maxdepth: 1
 
    
