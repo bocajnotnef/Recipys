@@ -1,5 +1,5 @@
-Drinks
-======
+Cocktails
+=========
 
 Contents:
 

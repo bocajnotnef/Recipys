@@ -6,15 +6,19 @@
 Welcome to Recipys's documentation!
 ===================================
 
-Contents:
+Food:
 
 .. toctree::
    poultry/index
    Beef/index
    Pasta/index
    Seafood/index
+   :maxdepth: 1
 
-   Drinks/index
+Drinks:
+
+.. toctree::
+   Cocktails/index
    :maxdepth: 1
 
 Recipe Template
