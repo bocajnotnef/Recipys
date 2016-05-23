@@ -13,6 +13,8 @@ Contents:
    Beef/index
    Pasta/index
    Seafood/index
+
+   Drinks/index
    :maxdepth: 1
 
 Recipe Template
