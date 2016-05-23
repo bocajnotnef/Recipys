@@ -26,5 +26,5 @@ Notes
 
 Additional Links
 ----------------
-* `Original Link <http://www.sheknows.com/recipes/creamsicle-cocktail>`
+* `Original Link <http://www.sheknows.com/recipes/creamsicle-cocktail>`__
 
