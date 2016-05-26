@@ -27,6 +27,8 @@ Instructions
 #. Cook pasta as directed
 #. Drain pasta and serve
 
+Serves: 6 - 8
+
 Notes
 -----
 * Recommend adding addtional herbs, salt, pepper
