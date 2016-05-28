@@ -4,6 +4,7 @@ Poultry
 Contents:
 
 .. toctree::
+    chicken-makhani
     hasselback-chicken
     one-skillet-creamy-lemon-chicken
     pad-thai-chicken-wings

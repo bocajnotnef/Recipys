@@ -4,7 +4,7 @@ Cocktails
 Contents:
 
 .. toctree::
-    orange-creamsicle
     dark-and-stormy
+    orange-creamsicle
+    raspberry-lime-mojito
     :maxdepth: 1
-
