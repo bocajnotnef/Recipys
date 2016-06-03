@@ -12,4 +12,5 @@ Contents:
     slow-cooker-honey-teriyaki-chicken
     slow-cooker-lemon-garlic-chicken
     sweet-and-sticky-honey-soy-sauce-chicken
+    turkey-caprese-cups
     :maxdepth: 1

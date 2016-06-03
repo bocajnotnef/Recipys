@@ -34,6 +34,7 @@ Food:
    Pasta/index
    Seafood/index
    Spices/index
+   Other/index
    :maxdepth: 1
 
 Drinks:
