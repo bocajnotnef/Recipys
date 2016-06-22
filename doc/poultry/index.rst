@@ -13,4 +13,5 @@ Contents:
     slow-cooker-lemon-garlic-chicken
     sweet-and-sticky-honey-soy-sauce-chicken
     turkey-caprese-cups
+    chicken-fried-rice
     :maxdepth: 1
