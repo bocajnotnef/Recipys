@@ -14,4 +14,5 @@ Contents:
     sweet-and-sticky-honey-soy-sauce-chicken
     turkey-caprese-cups
     chicken-fried-rice
+    chicken-stir-fry
     :maxdepth: 1
