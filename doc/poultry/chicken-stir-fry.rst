@@ -1,4 +1,4 @@
-Chicken Fried Rice
+Chicken Stir Fry
 ==================
 
 Ingredients

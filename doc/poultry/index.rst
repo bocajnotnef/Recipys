@@ -15,4 +15,5 @@ Contents:
     turkey-caprese-cups
     chicken-fried-rice
     chicken-stir-fry
+    cajun-chicken
     :maxdepth: 1
