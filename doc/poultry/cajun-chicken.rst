@@ -6,7 +6,7 @@ Ingredients
 
 * 1 Chicken Breast - punded to 1/2 inch thickness
 * 1/2 Tbsp Vegetable Oil
-* 1/2 Tbsp Cajun Seasoning
+* 1/2 Tbsp :ref:`cajun-seasoning`
 * 1/2 Tbsp Lemon Pepper
 * Garlic Powder to taste
 * Dash of Italian Seasoning

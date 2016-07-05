@@ -1,3 +1,5 @@
+.. _cajun-seasoning:
+
 Cajun Seasoning
 ===============
 
