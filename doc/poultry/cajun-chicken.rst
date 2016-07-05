@@ -28,7 +28,7 @@ Notes
 -----
 
 * Don't forget to pound the chicken
-* Ease of on the lemon pepper maybe?
+* Ease off on the lemon pepper maybe?
 
 Additional Links
 ----------------
