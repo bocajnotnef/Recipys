@@ -38,6 +38,13 @@ Food:
    Vegetables/index
    :maxdepth: 1
 
+Baked Goods
+-----------
+
+.. toctree::
+   BakedGoodies/index
+   :maxdepth: 1
+
 Drinks:
 -------
 

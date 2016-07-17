@@ -16,4 +16,5 @@ Contents:
     chicken-fried-rice
     chicken-stir-fry
     cajun-chicken
+    turkey-tetrazzini
     :maxdepth: 1
