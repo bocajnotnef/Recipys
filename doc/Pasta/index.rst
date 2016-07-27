@@ -10,5 +10,6 @@ Contents:
     goulash
     macaroni-and-cheese
     spaghetti-pizza
+    fettuccine-alfredo
     :maxdepth: 1
 
