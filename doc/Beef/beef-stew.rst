@@ -56,7 +56,7 @@ Instructions
 
 #. Remove and discard the herbs. Stir in the red wine vinegar, if desired, and season with salt and pepper to taste.
 
-Serves:
+Serves: 12
 
 Notes
 -----
