@@ -11,5 +11,6 @@ Contents:
     macaroni-and-cheese
     spaghetti-pizza
     fettuccine-alfredo
+    BeautifulSoup
     :maxdepth: 1
 
