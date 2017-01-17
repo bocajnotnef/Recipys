@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # AllRecipes Webscraper Script
 #
 # Author: Steven Jorgensen
