@@ -6,6 +6,7 @@ Ingredients
 
 * 3/4 teaspoon Salt
 * 2 pounds Fish
+* 1/2 cup Olive Oil
 * 2 large Onions, sliced
 * 2 1/3 cups Tomatoes (20oz or so)
 * 1 teaspoon Crushed Red Pepper
@@ -29,6 +30,8 @@ Notes
 -----
 * Whole small fish of any type can be used. (Cod, Haddock, Tilapia)
 * Have heard Catfish works excellently. Have not tried yet.
+* Original Recipe calls for 1/2 cup white wine, 1/2 cup parsley.
+* Original Recipe recommends salting the fish for a few hours.
 
 Additional Links
 ----------------
