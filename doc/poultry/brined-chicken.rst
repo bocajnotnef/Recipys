@@ -1,5 +1,5 @@
-Turkey Tetrazzini
-=================
+Brined Chicken
+==============
 
 Ingredients
 -----------
