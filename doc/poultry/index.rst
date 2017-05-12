@@ -17,4 +17,5 @@ Contents:
     chicken-stir-fry
     cajun-chicken
     turkey-tetrazzini
+    brined-chicken
     :maxdepth: 1
