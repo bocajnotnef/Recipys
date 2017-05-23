@@ -1,7 +1,7 @@
-.. _cajun-seasoning:
+.. _fajita-seasoning:
 
-Cajun Seasoning
-===============
+Fajita Seasoning
+================
 
 Ingredients
 ------------

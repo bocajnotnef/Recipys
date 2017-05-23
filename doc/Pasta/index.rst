@@ -11,6 +11,7 @@ Contents:
     macaroni-and-cheese
     spaghetti-pizza
     fettuccine-alfredo
+    ../Seafood/cajun-shrimp-fettuccine
     BeautifulSoup
     :maxdepth: 1
 
