@@ -18,4 +18,5 @@ Contents:
     cajun-chicken
     turkey-tetrazzini
     brined-chicken
+    EasyIndianButterChicken
     :maxdepth: 1
