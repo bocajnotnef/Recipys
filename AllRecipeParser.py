@@ -79,11 +79,12 @@ for item in ingredients:
 
 rst_file.write("\nInstructions\n-------------\n")
 for item in instructions:
-    instruction(item, rst_file)
+    WriteInstruction(item, rst_file)
 
 rst_file.write("\nServes: " + servings.text + '\n')
 
 rst_file.write("\nNotes\n-----\n * \n * \n")
 rst_file.write("\nAdditional Links\n----------------\n")
+rst_file.write(" * `Original Recipe <" + args.url[0] + ">`__")
 
 rst_file.close()
