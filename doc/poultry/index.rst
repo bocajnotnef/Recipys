@@ -19,4 +19,5 @@ Contents:
     turkey-tetrazzini
     brined-chicken
     EasyIndianButterChicken
+    JerkChicken
     :maxdepth: 1
