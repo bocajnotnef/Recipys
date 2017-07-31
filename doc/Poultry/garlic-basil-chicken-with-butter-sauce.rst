@@ -1,5 +1,5 @@
-Cajun Chicken
-=============
+Garlic Basil Chicken
+====================
 
 Ingredients
 -----------
