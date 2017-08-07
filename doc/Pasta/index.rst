@@ -12,5 +12,6 @@ Contents:
     spaghetti-pizza
     fettuccine-alfredo
     ../Seafood/cajun-shrimp-fettuccine
+    fresh-pasta
     :maxdepth: 1
 
