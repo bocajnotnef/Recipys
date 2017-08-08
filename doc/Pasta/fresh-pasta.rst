@@ -1,6 +1,8 @@
 Fresh Pasta
 ===========
 
+.. image:: pics/fresh-pasta.*
+
 Ingredients
 -----------
 
