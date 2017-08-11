@@ -1,5 +1,5 @@
-Chicken Stir Fry
-==================
+Chicken Enchilladas
+===================
 
 Ingredients
 -----------
