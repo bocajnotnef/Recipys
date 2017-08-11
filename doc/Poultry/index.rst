@@ -21,4 +21,5 @@ Contents:
     brined-chicken
     EasyIndianButterChicken
     JerkChicken
+    chicken-enchillada
     :maxdepth: 1
