@@ -30,6 +30,7 @@ Food:
 
 .. toctree::
    Poultry/index
+   Pork/index
    Beef/index
    Pasta/index
    Seafood/index
