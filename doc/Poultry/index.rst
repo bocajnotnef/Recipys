@@ -22,4 +22,5 @@ Contents:
     EasyIndianButterChicken
     JerkChicken
     chicken-enchillada
+    ../Pasta/cajun-chicken-pasta
     :maxdepth: 1
