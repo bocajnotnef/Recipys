@@ -13,5 +13,6 @@ Contents:
     fettuccine-alfredo
     ../Seafood/cajun-shrimp-fettuccine
     fresh-pasta
+    cajun-chicken-pasta
     :maxdepth: 1
 
