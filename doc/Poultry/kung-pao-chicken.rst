@@ -4,6 +4,7 @@ Kung Pao Chicken
 Ingredients
 -----------
 Sauce:
+
 * 1/4 cup water
 * 1/4 cup soy sauce
 * 4 tsp. cornstarch
@@ -12,12 +13,14 @@ Sauce:
 * Dash of hot sauce
 
 Chicken:
+
 * 2 boneless skinless chicken breasts - cubed
 * 1 Tbsp. beer
 * 1 tsp. cornstarch
 * 1 tsp. soy sauce
 
 The rest:
+
 * 2 - 4 cloves garlic
 * 2 tsp. ground ginger
 * 1 Tbsp. sesame or vegetable oil

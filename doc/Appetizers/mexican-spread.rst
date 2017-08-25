@@ -20,7 +20,7 @@ Instructions
 #. Mix mayonnaise and cream cheese together and spread on platter
 #. Pour taco sauce over cream cheese mixture and spread evenly
 #. Sprinkle mozzarella and cheddar on top
-#.Sprinkle pepper, onions, and tomato over top of cheese
+#. Sprinkle pepper, onions, and tomato over top of cheese
 #. Serve with chips
 
 Serves:
