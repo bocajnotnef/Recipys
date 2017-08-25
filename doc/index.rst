@@ -37,6 +37,7 @@ Food:
    Spices/index
    Sandwiches/index
    Vegetables/index
+   Appetizers/index
    Fruit/index
    :maxdepth: 1
 
