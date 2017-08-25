@@ -15,7 +15,13 @@ Contents:
     turkey-caprese-cups
     chicken-fried-rice
     chicken-stir-fry
+    garlic-basil-chicken-with-butter-sauce
     cajun-chicken
     turkey-tetrazzini
     brined-chicken
+    EasyIndianButterChicken
+    JerkChicken
+    chicken-enchillada
+    kung-pao-chicken
+    ../Pasta/cajun-chicken-pasta
     :maxdepth: 1

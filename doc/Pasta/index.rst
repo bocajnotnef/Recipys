@@ -12,6 +12,7 @@ Contents:
     spaghetti-pizza
     fettuccine-alfredo
     ../Seafood/cajun-shrimp-fettuccine
-    BeautifulSoup
+    fresh-pasta
+    cajun-chicken-pasta
     :maxdepth: 1
 

@@ -29,13 +29,16 @@ Food:
 -----
 
 .. toctree::
-   poultry/index
+   Poultry/index
+   Pork/index
    Beef/index
    Pasta/index
    Seafood/index
    Spices/index
    Sandwiches/index
    Vegetables/index
+   Appetizers/index
+   Fruit/index
    :maxdepth: 1
 
 Baked Goods
