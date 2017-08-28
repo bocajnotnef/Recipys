@@ -1,8 +1,21 @@
 #!/usr/bin/python
 # -*- coding: iso-8859-1 -*-
 
+# Program to create interactive GUI to generate rst recipe files for Recipys.
+#
+# Author: Steven Jorgensen
+# Date: 08/27/2017
+
 import tkinter
 
+# Function to format recipe information into rst markdown
+#
+# Params:   ingredient list
+#           instruction list
+#           title of recipe
+#           servings made
+#
+# Returns:  list of lines of formated text
 def Format(ing_list, inst_list, title, serves):
     f_text = [title]
     f_text.append(("=" * len(title)) + '\n')
@@ -35,34 +48,50 @@ def Format(ing_list, inst_list, title, serves):
     return f_text
 
 
-class simpleapp_tk(tkinter.Tk):
+# Class to design the GUI
+class Recipyapp_tk(tkinter.Tk):
+
     def __init__(self, parent):
         tkinter.Tk.__init__(self, parent)
         self.parent = parent
         self.initialize()
 
+
+    # Method to convert text from a textbox string to a list of lines
+    #
+    # Params:   self
+    #           string to be converted
+    #
+    # Returns:  list of text lines
     def ProcessData(self, raw_data):
         data = raw_data.split('\n')
         return data
 
 
+    # Method called on "Create File" button press. Creates and writes rst file
+    #
+    # Params:   self
     def WriteToFile(self):
+
+        # Get strings from tkinter objects
         ing_data = self.ing_box.get("1.0",'end-1c')
         inst_data = self.inst_box.get("1.0",'end-1c')
         title = self.r_name.get()
         serves = self.servings.get()
-
-        if title == "": title = "Recipe"
 
         ing_list = self.ProcessData(ing_data)
         inst_list = self.ProcessData(inst_data)
 
         f_text = Format(ing_list, inst_list, title, serves)
 
+        if title == "": title = "recipe" # file is named recipe.rst by default
         temp = title.lower().split(' ')
         filename = ""
-        for word in temp: filename += (word + "-")
-        filename = filename[:-1] + ".rst"
+
+        for word in temp:
+            filename += (word + "-")
+
+        filename = filename[:-1] + ".rst" # remove final '-' from title, add filetype
 
         _file = open(filename, 'w')
 
@@ -73,11 +102,17 @@ class simpleapp_tk(tkinter.Tk):
 
         success = tkinter.Label(text=filename + " was created successfully!")
         success.grid(row=6, column=1)
+        pass
 
+
+    # Method that creates the initial GUI interface
+    #
+    # Params:   self
     def initialize(self):
         self.grid()
         self.geometry("800x1000")
 
+        # Create gui objects
         title_label = tkinter.Label(text="Title of Dish: ", anchor="w")
         self.r_name = tkinter.Entry()
         ing_label = tkinter.Label(text="Enter Ingredients Below (put each Ingredient on a new line)")
@@ -86,10 +121,10 @@ class simpleapp_tk(tkinter.Tk):
         self.inst_box = tkinter.Text()
         serve_label = tkinter.Label(text="Serves: ", anchor="w")
         self.servings = tkinter.Entry()
-
         create_button = tkinter.Button(self, text=u"Create File", command=self.WriteToFile)
         exit_button = tkinter.Button(self, text=u"Exit", command=self.quit)
 
+        # Format objects in grid configuration on GUI
         self.grid_columnconfigure(0, weight=2)
         self.grid_columnconfigure(2, weight=2)
         title_label.grid(row=0, column=0)
@@ -103,7 +138,11 @@ class simpleapp_tk(tkinter.Tk):
         create_button.grid(row=6, column=0)
         exit_button.grid(row=6, column=2, padx=20)
 
+        pass
+
+
+### MAIN loop ###
 if __name__ == "__main__":
-    app = simpleapp_tk(None)
+    app = Recipyapp_tk(None)
     app.title('RecipyEntry')
     app.mainloop()
