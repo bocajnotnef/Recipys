@@ -25,4 +25,5 @@ Contents:
     kung-pao-chicken
     ../Pasta/cajun-chicken-pasta
     ChickenTacoSoup
+    AsianOrangeChicken
     :maxdepth: 1
