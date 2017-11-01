@@ -10,4 +10,5 @@ Contents:
     orange-creamsicle
     raspberry-lime-mojito
     tie-me-to-the-bedpost
+    whiskey-hot-chocolate
     :maxdepth: 1
