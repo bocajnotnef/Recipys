@@ -10,4 +10,5 @@ Contents:
     ../Pasta/dried-beef
     BeefWellington
     hasselback-steak
+    meatloaf
     :maxdepth: 1
