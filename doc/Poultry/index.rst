@@ -24,4 +24,5 @@ Contents:
     chicken-enchillada
     kung-pao-chicken
     ../Pasta/cajun-chicken-pasta
+    ChickenTacoSoup
     :maxdepth: 1
