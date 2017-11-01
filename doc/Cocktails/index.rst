@@ -6,7 +6,8 @@ Contents:
 .. toctree::
     dark-and-stormy
     day-in-the-shade
+    nymphomaniac
     orange-creamsicle
     raspberry-lime-mojito
-    nymphomaniac
+    tie-me-to-the-bedpost
     :maxdepth: 1
