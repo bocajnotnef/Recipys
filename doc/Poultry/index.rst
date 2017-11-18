@@ -4,8 +4,20 @@ Poultry
 Contents:
 
 .. toctree::
+    ../Pasta/cajun-chicken-pasta
+    AsianOrangeChicken
+    brined-chicken
+    cajun-chicken
+    chicken-enchillada
+    chicken-fried-rice
     chicken-makhani
+    chicken-stir-fry
+    ChickenTacoSoup
+    EasyIndianButterChicken
+    garlic-basil-chicken-with-butter-sauce
     hasselback-chicken
+    JerkChicken
+    kung-pao-chicken
     one-skillet-creamy-lemon-chicken
     pad-thai-chicken-wings
     slow-cooker-chicken-tikka-masala
@@ -13,17 +25,5 @@ Contents:
     slow-cooker-lemon-garlic-chicken
     sweet-and-sticky-honey-soy-sauce-chicken
     turkey-caprese-cups
-    chicken-fried-rice
-    chicken-stir-fry
-    garlic-basil-chicken-with-butter-sauce
-    cajun-chicken
     turkey-tetrazzini
-    brined-chicken
-    EasyIndianButterChicken
-    JerkChicken
-    chicken-enchillada
-    kung-pao-chicken
-    ../Pasta/cajun-chicken-pasta
-    ChickenTacoSoup
-    AsianOrangeChicken
     :maxdepth: 1
