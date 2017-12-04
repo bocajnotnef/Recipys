@@ -12,6 +12,7 @@ Contents:
     chicken-fried-rice
     chicken-makhani
     chicken-stir-fry
+    chicken-stir-fry-two
     ChickenTacoSoup
     EasyIndianButterChicken
     garlic-basil-chicken-with-butter-sauce
