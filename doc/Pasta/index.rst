@@ -11,6 +11,7 @@ Contents:
     macaroni-and-cheese
     spaghetti-pizza
     fettuccine-alfredo
+    PastaPomodoro
     ../Seafood/cajun-shrimp-fettuccine
     fresh-pasta
     cajun-chicken-pasta
