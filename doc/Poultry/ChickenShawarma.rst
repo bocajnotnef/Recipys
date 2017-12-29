@@ -20,8 +20,7 @@ Ingredients
 
 Instructions
 -------------
- #. Create marinade for the chicken by combining the lemon juice, 1/2 cup olive oil, garlic, salt
- pepper, cumin paprika, turmeric, cinnamon, and red pepper flakes in a large bowl. Whisk to combine.
+ #. Create marinade for the chicken by combining the lemon juice, 1/2 cup olive oil, garlic, salt, pepper, cumin paprika, turmeric, cinnamon, and red pepper flakes in a large bowl. Whisk to combine.
  #. Add chicken and toss well.
  #. Cover and store in refrigerator for 1 - 12 hours.
  #. Heat oven to 425 degrees.
