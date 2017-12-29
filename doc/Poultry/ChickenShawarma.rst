@@ -26,7 +26,7 @@ Instructions
  #. Heat oven to 425 degrees.
  #. Use the tablespoon of olive oil to grease a rimmed sheet tray.
  #. Add the quartered onion to the marinade and toss to combine.
- # Remove everything from the marinade and place on the sheet tray, spreading evenly.
+ #. Remove everything from the marinade and place on the sheet tray, spreading evenly.
  #. Place the tray in the oven and roast until browned and crisp at the edges, 30 - 40 minutes.
  #. Remove from the oven, allow to rest for 2 minutes, then slice into bits.
  #. Scatter parsley over the top and serve with whatever you want.
