@@ -13,6 +13,7 @@ Contents:
     chicken-makhani
     chicken-stir-fry
     chicken-stir-fry-two
+    ChickenShawarma
     ChickenTacoSoup
     EasyIndianButterChicken
     garlic-basil-chicken-with-butter-sauce
