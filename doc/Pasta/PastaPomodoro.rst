@@ -1,0 +1,33 @@
+Pasta Pomodoro
+==============
+
+Ingredients
+-----------
+ * 1 (16 ounce) package angel hair pasta
+ * 1/4 cup olive oil
+ * 1/2 onion, chopped
+ * 4 cloves garlic, minced
+ * 2 cups roma (plum) tomatoes, diced
+ * 2 tablespoons balsamic vinegar
+ * 1 (10.75 ounce) can low-sodium chicken broth
+ * crushed red pepper to taste
+ * freshly ground black pepper to taste
+ * 2 tablespoons chopped fresh basil
+ * 1/4 cup grated Parmesan cheese
+
+Instructions
+-------------
+ #. Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8  minutes or until al dente; drain.
+ #. Pour olive oil in a large deep skillet over high-heat. Saute onions and garlic until lightly browned. Reduce heat to medium-high and add tomatoes, vinegar and chicken broth; simmer for about 8 minutes.
+ #. Stir in red pepper, black pepper, basil and cooked pasta, tossing thoroughly with sauce. Simmer for about 5 more minutes and serve topped with grated cheese.
+
+Serves: Original recipe yields 4 servings
+
+Notes
+-----
+ * 
+ * 
+
+Additional Links
+----------------
+ * `Original Recipe <http://allrecipes.com/recipe/23847/pasta-pomodoro/>`__

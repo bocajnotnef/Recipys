@@ -1,4 +1,4 @@
-Clam Chowder
+Chowder
 ============
 
 Ingredients

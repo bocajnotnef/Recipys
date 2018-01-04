@@ -4,7 +4,7 @@ Seafood
 Contents:
 
 .. toctree::
-    clam-chowder
+    chowder
     CrunchyFriedShrimp
     FishermanStew
     ../Pasta/tuna-noodle
