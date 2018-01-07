@@ -1,6 +1,8 @@
 Chicken Shawarma
 ==================
 
+.. image:: Images/shawarma.png
+
 Ingredients
 -----------
  * 1 lemon, juiced
