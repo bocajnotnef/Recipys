@@ -6,7 +6,7 @@ Ingredients
 
 * 2 pounds of ground beef
 * 2 eggs
-* 1 & 1/2 cup of eggs
+* 1 & 1/2 cup of breadcrumbs
 * 3/4 cups of ketchup
 * 1 tsp of Lawry's seasoning salt
 * 1/2 cup of warm water
