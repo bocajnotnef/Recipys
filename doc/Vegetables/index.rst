@@ -4,7 +4,8 @@ Vegetables
 Contents:
 
 .. toctree::
-    pan-fried-asparagus
+    creamy-chickpeas
     fried-squash-blossoms
     mashed-potatoes
+    pan-fried-asparagus
     :maxdepth: 1
