@@ -11,4 +11,5 @@ Contents:
     BeefWellington
     hasselback-steak
     meatloaf
+    instant-pot-pot-roast
     :maxdepth: 1
