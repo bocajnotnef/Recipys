@@ -12,4 +12,5 @@ Contents:
     hasselback-steak
     meatloaf
     instant-pot-pot-roast
+    SteakMarinade
     :maxdepth: 1

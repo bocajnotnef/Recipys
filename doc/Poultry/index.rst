@@ -6,6 +6,7 @@ Contents:
 .. toctree::
     ../Pasta/cajun-chicken-pasta
     AsianOrangeChicken
+    BakedTeriyakiChicken
     brined-chicken
     cajun-chicken
     chicken-enchillada
@@ -13,8 +14,10 @@ Contents:
     chicken-makhani
     chicken-stir-fry
     chicken-stir-fry-two
+    ChickenParmesan
     ChickenShawarma
     ChickenTacoSoup
+    CreamyGarlicParmesanChicken
     EasyIndianButterChicken
     garlic-basil-chicken-with-butter-sauce
     hasselback-chicken
@@ -22,6 +25,7 @@ Contents:
     kung-pao-chicken
     one-skillet-creamy-lemon-chicken
     pad-thai-chicken-wings
+    PadThai
     slow-cooker-chicken-tikka-masala
     slow-cooker-honey-teriyaki-chicken
     slow-cooker-lemon-garlic-chicken
