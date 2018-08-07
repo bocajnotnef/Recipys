@@ -8,5 +8,6 @@ Contents:
     SlowCookerTexasPulledPork
     HoneyGlazedPorkTenderloin
     oven-pork-ribs
+    oven-baked-pork-chops-with-potatoes
     :maxdepth: 1
 
