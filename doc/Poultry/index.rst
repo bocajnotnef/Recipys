@@ -20,8 +20,10 @@ Contents:
     CreamyGarlicParmesanChicken
     EasyIndianButterChicken
     garlic-basil-chicken-with-butter-sauce
+    GeneralTsaoChicken
     hasselback-chicken
     JerkChicken
+    kuku-paka
     kung-pao-chicken
     one-skillet-creamy-lemon-chicken
     pad-thai-chicken-wings
