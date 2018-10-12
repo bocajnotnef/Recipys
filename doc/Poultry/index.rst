@@ -19,6 +19,7 @@ Contents:
     ChickenTacoSoup
     CreamyGarlicParmesanChicken
     EasyIndianButterChicken
+    firecracker-chicken
     garlic-basil-chicken-with-butter-sauce
     GeneralTsaoChicken
     hasselback-chicken
