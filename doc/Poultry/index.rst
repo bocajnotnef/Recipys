@@ -8,6 +8,7 @@ Contents:
     AsianOrangeChicken
     BakedTeriyakiChicken
     brined-chicken
+    BuffaloDrumsticks
     cajun-chicken
     chicken-enchillada
     chicken-fried-rice
@@ -29,10 +30,13 @@ Contents:
     one-skillet-creamy-lemon-chicken
     pad-thai-chicken-wings
     PadThai
+    SalsaChicken
+    ShoyuChicken
     slow-cooker-chicken-tikka-masala
     slow-cooker-honey-teriyaki-chicken
     slow-cooker-lemon-garlic-chicken
     sweet-and-sticky-honey-soy-sauce-chicken
+    SweetandSourChickenI
     turkey-caprese-cups
     turkey-tetrazzini
     :maxdepth: 1

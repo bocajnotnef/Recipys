@@ -9,4 +9,5 @@ Contents:
     mashed-potatoes
     pan-fried-asparagus
     vegan-mexican-bake
+    SpicyBlackBeanVegetableSoup
     :maxdepth: 1

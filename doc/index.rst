@@ -34,6 +34,7 @@ Food:
    Beef/index
    Pasta/index
    Seafood/index
+   Sides/index
    Spices/index
    Sandwiches/index
    Vegetables/index

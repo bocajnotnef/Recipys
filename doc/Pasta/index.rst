@@ -15,5 +15,7 @@ Contents:
     ../Seafood/cajun-shrimp-fettuccine
     fresh-pasta
     cajun-chicken-pasta
+    SpaghettiCarbonaraII
+    WorldsBestLasagna
     :maxdepth: 1
 

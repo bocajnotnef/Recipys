@@ -4,13 +4,19 @@ Beef
 Contents:
 
 .. toctree::
+    BBQChuckRoast
     beef-stew.rst
-    ranch-style-beans
-    ../Pasta/goulash
-    ../Pasta/dried-beef
+    BeefandGuinnessStew
+    BeefBulgogi
     BeefWellington
+    ../Pasta/dried-beef
+    FabulousWetBurritos
+    ../Pasta/goulash
     hasselback-steak
-    meatloaf
     instant-pot-pot-roast
+    meatloaf
+    ranch-style-beans
+    RestaurantStyleBeefandBroccoli
+    SlowCookerMexicanStyleMeat
     SteakMarinade
     :maxdepth: 1
