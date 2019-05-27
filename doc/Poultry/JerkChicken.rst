@@ -14,21 +14,22 @@ Ingredients
  * 1/2 teaspoon ground cloves
  * 1/2 teaspoon ground nutmeg
  * 1/2 teaspoon ground allspice
- * 1 1/2 pounds skinless, boneless chicken breast halves
+ * 1 1/2 pounds skinless, boneless chicken thighs
 
 Instructions
 -------------
  #. In a food processor or blender, combine the green onions, onion, jalapeno pepper, soy sauce, vinegar, vegetable oil, brown sugar, thyme, cloves, nutmeg and allspice. Mix for about 15 seconds.
  #. Place the chicken in a medium bowl, and coat with the marinade. Refrigerate for 4 to 6 hours, or overnight.
- #. Preheat grill for high heat.
+ #. Preheat grill for high heat (can also use cast iron).
  #. Lightly oil grill grate. Cook chicken on the prepared grill 6 to 8 minutes, until juices run clear.
+ #. If cooking in cast iron, flip chicken when edges turn white, add a couple tbsps of water and cover, cooking until inside reads 165 degrees (approx. 10mins)
 
 Serves: Original recipe yields 4 servings
 
 Notes
 -----
  * Can be marinaded longer for more flavor
- * 
+ * Use chicken thighs, they are better (recipe has been updated to reflect this)
 
 Additional Links
 ----------------

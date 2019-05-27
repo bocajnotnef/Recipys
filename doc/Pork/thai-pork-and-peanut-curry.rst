@@ -9,13 +9,13 @@ Ingredients
  * 1 lb pork tenderloin - sliced
  * 4 tbsp Thai red curry paste
  * 4 tbsp peanut butter
- * 1 tbsp brown sugar
+ * 2 tbsp brown sugar
  * 1 tbsp soy sauce
  * 1 2/3 cups coconut milk (400 ml)
  * 1/2 cup water
  * 1 pack/can baby corn
  * Juice of 1 lime
- * Rice to serve with
+ * Rice to serve with (4 -5 servings)
 
 Instructions
 -------------
@@ -30,7 +30,9 @@ Serves: Original recipe yields 6 servings
 
 Notes
 -----
- * 
+ * Add more soy sauce, maybe another tablespoon or two
+ * Add another tablespoon brown sugar (The recipe has been updated to reflect this)
+ * Use less lime, maybe half, garnish with other half?
 
 Additional Links
 ----------------

@@ -24,7 +24,7 @@ Serves: Original recipe yields 6 servings
 
 Notes
 -----
- * 
+ * I hear adding some butter to this soup can add some body to the flavor, have yet to try
  * 
 
 Additional Links

@@ -18,7 +18,7 @@ Ingredients
 Instructions
 ------------
 
-#. Make a sauce by browning the onions in olive oil in a deep pot.
+#. Make a sauce by browning the onions on medium/medium-low in olive oil in a deep pot (Takes about 30 minutes).
 #. Add tomatoes, tomato sauce, crushed red pepper, salt, pepper, and water.
 #. Allow to simmer for 30 minutes.
 #. Add the fish and continue to simmer until fish is cooked.
@@ -32,6 +32,7 @@ Notes
 * Have heard Catfish works excellently. Have not tried yet.
 * Original Recipe calls for 1/2 cup white wine, 1/2 cup parsley.
 * Original Recipe recommends salting the fish for a few hours.
+* Use a little white sugar to round out the flavor of the stew
 
 Additional Links
 ----------------
