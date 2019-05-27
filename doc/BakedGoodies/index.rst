@@ -4,6 +4,7 @@ Baked Goodies
 Contents:
 
 .. toctree::
+   BestChocolateChipCookies
    french-cookies
    LemonMeringuePie
    one-egg-cake
