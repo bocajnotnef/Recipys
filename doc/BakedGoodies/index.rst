@@ -12,5 +12,6 @@ Contents:
    spice-cake
    strawberry-rhubarb-crisp
    MicrowaveChocolateMugCake
+   MillionaresShortbread
    :maxdepth: 1
 
