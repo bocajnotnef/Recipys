@@ -1,5 +1,5 @@
-Snickerdoodles
-===============
+Millionares Shortbread
+======================
 
 Ingredients
 -----------
